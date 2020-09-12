@@ -1,1 +1,1 @@
-# SpringIntegrationFlowsPractice
+# MovingFilesWithSpringIntegration
